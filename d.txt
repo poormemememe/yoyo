@@ -1,0 +1,4 @@
+$r = $j.Read($h, 0, $h.Length);
+$i.Close();
+$j.Close();
+$f.Clear();
