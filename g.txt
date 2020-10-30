@@ -1,2 +1,0 @@
-return $encoding.GetString($h).TrimEnd([Char] 0);
-}
