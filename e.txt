@@ -1,1 +1,0 @@
-if (($h.Length -gt 3) -and ($h[0] -eq 0xEF) -and ($h[1] -eq 0xBB) -and ($h[2] -eq 0xBF))
